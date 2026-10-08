@@ -50,4 +50,5 @@ The FPGA processes the temperature sensor data and generates the required therma
 
 Completed in AMD/Xilinx Vivado
 screenshot<img width="1920" height="1080" alt="Screenshot 2026-10-08 191221" src="https://github.com/user-attachments/assets/31d0a8e5-fe46-47c0-91d0-46e76d94ea80" />
-link 
+link  https://12jayashree.github.io/Temperature-monitor/
+
